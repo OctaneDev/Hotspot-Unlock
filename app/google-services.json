@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "313084604941",
+    "firebase_url": "https://admob-app-id-3904290190.firebaseio.com",
+    "project_id": "admob-app-id-3904290190",
+    "storage_bucket": "admob-app-id-3904290190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313084604941:android:85f9943d345f7436",
+        "android_client_info": {
+          "package_name": "biz.bigtooth.naturewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313084604941-vr3a9k5gm35afp2jdhf1b0ke42ti64qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCPl1l554lcth2T1kGPF9q5JlsCZlhQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313084604941:android:b43d5fbbf38ad196",
+        "android_client_info": {
+          "package_name": "com.bigtooth.apps.unlockandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313084604941-vr3a9k5gm35afp2jdhf1b0ke42ti64qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCPl1l554lcth2T1kGPF9q5JlsCZlhQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313084604941:android:cb806d115c56921d",
+        "android_client_info": {
+          "package_name": "biz.bigtooth.tetherunlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313084604941-vr3a9k5gm35afp2jdhf1b0ke42ti64qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCPl1l554lcth2T1kGPF9q5JlsCZlhQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

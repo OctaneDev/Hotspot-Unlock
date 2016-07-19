@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tether Unlock</string>
+    <string name="large_text">
+        "Press the red button in upper right part of the screen to unlock tethering.\n\n"
+
+        "Some mobile carriers make you pay extra for data plans that allow mobile tethering, but "
+        "there's and easy work around. Just by running one shell command you can unlock free data "
+        "tethering. It will still count against your data, but it will not cost you anything extra, "
+        "such as a special data tethering plan. After running the command, just go to your settings "
+        "and you can enable wireless tethering."
+    </string>
+    <string name="action_settings">About</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5164171001589422/8705822593</string>
+</resources>
